@@ -1,0 +1,3 @@
+# Checkpoints land in this directory.
+# Each file: the ledger tip (seq + row_hash) at a publication time.
+# The box appends here; it cannot rewrite or delete (branch protection + scoped token).
