@@ -1,5 +1,0 @@
-probe: loom-anchor four-outcome test
-time: 2026-09-01T16:17:53Z
-seq: 999999
-row_hash: sha256:000000000000000000000000000000000000000000000000000000000000dead
-note: throwaway checkpoint; not a real ledger row
